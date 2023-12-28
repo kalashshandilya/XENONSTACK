@@ -13,9 +13,7 @@
 
 # **(XENONSTACK)**
 
-### School of Computer Science and Engineering
 
-![image](https://github.com/xyzSHIvam/Terri/assets/116440760/6ec23bd3-3250-472a-aa34-1ed9d2597a1f)
 
 
 
