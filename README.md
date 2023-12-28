@@ -79,5 +79,32 @@ When a user registers, their password is hashed using bcrypt, a password hashing
 For user authentication, the backend verifies the user's login credentials and generates a JWT upon successful authentication.
 The backend includes endpoints for handling contact-related operations, such as adding new contacts, updating existing contacts, and deleting contacts.
 These endpoints are protected using middleware that verifies the JWT included in the request headers to ensure authenticated access.
-![image](https://github.com/kalashshandilya/XENONSTACK/assets/81811583/3f1811b2-d8b5-4b54-b70e-999ab046f691)
+
+## **Website images:** 
+
+
+
+
+![image](https://github.com/kalashshandilya/XENONSTACK/assets/81811583/bf145286-a7d1-439a-ac05-7cb17b6f9ebf)
+
+
+
+
+
+![image](https://github.com/kalashshandilya/XENONSTACK/assets/81811583/ddf23039-e746-4b2c-9fe6-ea19bf44703a)
+
+
+
+
+
+
+
+
+![image](https://github.com/kalashshandilya/XENONSTACK/assets/81811583/f88c0d51-c0d0-421a-9875-2725fb4d1b95)
+
+
+
+
+
+
 
